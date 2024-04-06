@@ -48,3 +48,9 @@ As a beginner Flutter developer, This is easy and simple Dice rol Game..
     <td align="center"><em>Fig.2 - iPhone App</em></td>
   </tr>
 </table>
+
+## Packages Used
+
+- `flutter_gif: ^0.0.4` - For displaying GIFs in the Flutter app.
+- `audioplayers: ^5.2.1` - For playing audio files.
+- `confetti: ^0.7.0` - To add confetti effects for celebrations.
