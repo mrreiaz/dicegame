@@ -36,16 +36,15 @@ www.mrreiaz.com
 
 # Dice Role App
 
-As a beginner Flutter developer, I created an ID card for myself.
+As a beginner Flutter developer, This is easy and simple Dice rol Game..
 
-![Android App](/readme-asset/1.png)
-*Fig.1 - Android App.*
-
-![iPhone App](/readme-asset/iphone.png)
-*Fig.2 - iPhone App.*
-
-
-<p align="center">
-  <img src="/readme-asset/1.png" width="45%" alt="Android App" /> 
+<p>
+  <img src="/readme-asset/1.png" width="45%" alt="Android App" />
+  <br>
+  <em>Fig.1 - Android App</em>
+</p>
+<p>
   <img src="/readme-asset/iphone.png" width="45%" alt="iPhone App" />
+  <br>
+  <em>Fig.2 - iPhone App</em>
 </p>
