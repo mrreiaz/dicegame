@@ -38,13 +38,13 @@ www.mrreiaz.com
 
 As a beginner Flutter developer, This is easy and simple Dice rol Game..
 
-<p>
-  <img src="/readme-asset/1.png" width="45%" alt="Android App" />
-  <br>
-  <em>Fig.1 - Android App</em>
-</p>
-<p>
-  <img src="/readme-asset/iphone.png" width="45%" alt="iPhone App" />
-  <br>
-  <em>Fig.2 - iPhone App</em>
-</p>
+<table>
+  <tr>
+    <td><img src="/readme-asset/1.png" width="100%" alt="Android App" /></td>
+    <td><img src="/readme-asset/iphone.png" width="100%" alt="iPhone App" /></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Fig.1 - Android App</em></td>
+    <td align="center"><em>Fig.2 - iPhone App</em></td>
+  </tr>
+</table>
