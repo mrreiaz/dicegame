@@ -46,15 +46,17 @@ www.mrreiaz.com
 
 <figure>
     <p align="center">
-        <img src="/readme-asset/android.png" width="50%" alt="mrreiaz">
+        <img src="/readme-asset/1.png" width="50%" alt="mrreiaz">
     </p>
     <p align="center">
-        Fig.1 - android App.
+        Fig.1 - Android App.
+    </p>
+    <p align="center">
+        <img src="/readme-asset/iphone.png" width="50%" alt="mrreiaz">
+    </p>
+    <p align="center">
+        Fig.1 - Android App.
     </p>
 </figure>
-<figure>
-    <h1 align="center">
-        <a href="https://github.com/mrreiaz/id-card/raw/main/app-release.apk">Download Android APK</a>
-    </h1>
-</figure>
+
 
