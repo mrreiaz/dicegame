@@ -34,29 +34,12 @@ You can click the Preview link to take a look at your changes.
 #### Visits My Website
 www.mrreiaz.com
 
+# Dice Role App
 
-<h1 align="center">
- MY ID Card App.
-</h1>
+As a beginner Flutter developer, I created an ID card for myself.
 
+![Android App](/readme-asset/1.png)
+*Fig.1 - Android App.*
 
-<br >
-# As a beginner Flutter developer I Create a Id Card for me.
-<br ><br ><br >
-
-<figure>
-    <p align="center">
-        <img src="/readme-asset/1.png" width="50%" alt="mrreiaz">
-    </p>
-    <p align="center">
-        Fig.1 - Android App.
-    </p>
-    <p align="center">
-        <img src="/readme-asset/iphone.png" width="50%" alt="mrreiaz">
-    </p>
-    <p align="center">
-        Fig.1 - Android App.
-    </p>
-</figure>
-
-
+![iPhone App](/readme-asset/iphone.png)
+*Fig.2 - iPhone App.*
