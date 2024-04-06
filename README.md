@@ -43,3 +43,9 @@ As a beginner Flutter developer, I created an ID card for myself.
 
 ![iPhone App](/readme-asset/iphone.png)
 *Fig.2 - iPhone App.*
+
+
+<p align="center">
+  <img src="/readme-asset/1.png" width="45%" alt="Android App" /> 
+  <img src="/readme-asset/iphone.png" width="45%" alt="iPhone App" />
+</p>
